@@ -78,13 +78,13 @@ const Footer = () => (
         }
       >
         <li>
-          <Link href="/">
+          <Link href="https://petit.today/privacy.html">
             <a>Privacy Policy</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Frequently asked questions</a>
+          <Link href="https://petit.today/terms.html">
+            <a>Terms & Conditions</a>
           </Link>
         </li>
       </CenteredFooter>
