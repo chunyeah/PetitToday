@@ -10,7 +10,7 @@ const Banner = () => (
       title="An iOS Widgets app for your favorite NFTs."
       subtitle="Start your Free Trial."
       button={
-        <Link href="https://itunes.apple.com/app/apple-store/id/6443432429">
+        <Link href="https://itunes.apple.com/app/id6443432429">
           <a>
             <Button>Get Started</Button>
           </a>

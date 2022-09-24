@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://itunes.apple.com/app/apple-store/id/6443432429">
+          <Link href="https://itunes.apple.com/app/id6443432429">
             <a>App Store</a>
           </Link>
         </li>
@@ -29,7 +29,7 @@ const Hero = () => (
         }
         description="The easiest way to build a NFT Widget on your iPhone in seconds."
         button={
-          <Link href="https://itunes.apple.com/app/apple-store/id/6443432429">
+          <Link href="https://itunes.apple.com/app/id6443432429">
             <a>
               <Button xl>Download App</Button>
             </a>
