@@ -30,6 +30,7 @@ const VerticalFeatures = () => (
       description="Watch your NFT price on the iPhone Lockscreen."
       image="/assets/images/4.jpg"
       imageAlt="Third feature alt text"
+      reverse
     />
   </Section>
 );
